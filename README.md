@@ -1,5 +1,8 @@
 # vuex-todos2
 
+## Originated by Traversy Media
+https://youtu.be/5lVQgZzLMHc
+
 ## Project setup
 ```
 npm install
